@@ -18,4 +18,17 @@ To get started with RealTime Workplace locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/RealTime-Workplace.git
+   git clone https://github.com/Priyanshu310502/RealTime-Workplace.git
+**Usage
+Login/Signup: Create an account or login using your credentials.
+Dashboard: Once logged in, access your workspace where you can create projects, assign tasks, and collaborate with your team in real time.
+Task Management: Add tasks, assign team members, set due dates, and track progress.
+Notifications: Stay updated with notifications for changes, task assignments, and real-time messages.
+Live Chat: Use the chat feature to communicate with your team for quick decisions.**
+
+### How to Use This:
+1. Save this text as `README.md` in the root directory of your project.
+2. Replace the placeholder information (like `your-username`, repository URLs, and email) with your actual project details.
+
+This file contains all the essential sections and can be easily integrated into your GitHub repository. Let me know if you need further customization!
+   
